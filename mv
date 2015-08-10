@@ -1,0 +1,3 @@
+mv [file] [destination]
+
+the mv command moves a file or directory. it can also be used to rename a file or directory by putting the desintation as a new name in the current directory.
