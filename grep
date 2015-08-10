@@ -1,0 +1,3 @@
+grep [thing] [file]
+
+The grep command searches through a file for a particular thing.
